@@ -2,7 +2,7 @@
 
 # Hola, soy Gabz! :relieved: :hand:
 
-Soy desarrollador web, estoy en este ambito desde hace ya mas de 5 años mi fuerte es el
+Soy desarrollador web, estoy en este ambito desde hace ya mas de 5 años <br/> mi fuerte es el
 Frontend pero no dejo de lado al Backend
 
 -   :seedling: Universitario y Autodidacta
