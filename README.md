@@ -1,5 +1,4 @@
 # Hola, soy Gabz! :relieved: :hand:
 
-Desarrollador Web
--   :seedling: Universitario y Autodidacta
--   :heart: Typescript, Nextjs, React y Nestjs
+Ingeniero de Sistemas, Desarrollador Web
+:heart: Typescript, Nextjs, React & Nestjs
