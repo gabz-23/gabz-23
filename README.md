@@ -1,18 +1,10 @@
 # Hola soy Gabz! 🖐️
 
-<div style="display: flex; flex-direction: row-reverse;">
-<div>
-    <img src="./img.png" >
-</div>
-
-<div>
-    <p style="font-size: 30px;">Sobre mi</p>
-    <p>🥇 Ingeniero en Sistemas</p>
-    <p>👨‍💻 Soy un apasionado del desarrollo web</p>
-    <p>⚒️ Trabajo con Typescript, NextJs, Tailwind, Nest, y Postgres</p>
-    <p>🌱 Constantemente aprendiendo</p>
-</div>
-</div>
+##Sobre mi 
+<p>🥇 Ingeniero en Sistemas</p>
+<p>👨‍💻 Soy un apasionado del desarrollo web</p>
+<p>⚒️ Trabajo con Typescript, NextJs, Tailwind, Nest, y Postgres</p>
+<p>🌱 Constantemente aprendiendo</p>
 
 
 ## Mis Tecnologias y Herramientas 
