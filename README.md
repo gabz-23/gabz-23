@@ -1,6 +1,5 @@
 # Hola soy Gabz! 🖐️
 
-## Sobre mi 
 <p>🥇 Ingeniero en Sistemas</p>
 <p>👨‍💻 Soy un apasionado del desarrollo web</p>
 <p>⚒️ Trabajo con Typescript, NextJs, Tailwind, Nest, y Postgres</p>
