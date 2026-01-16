@@ -26,11 +26,3 @@
     <img src="https://skillicons.dev/icons?i=vscode,postman,docker,pnpm" />
   </a>
 </p>
-
-### Sigueme
-<div
-    <a href="https://x.com/_gabzdev" target="_blank" rel="noopener noreferrer">
-
-![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
-    </a>
-</div>
