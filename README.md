@@ -1,7 +1,7 @@
 # Hola soy Gabz! 🖐️
 
 <div>
-    <img src="./img.png" style="width: 100%; object-fit: cover">
+    <img src="./img.png" style="width: 100%; height: 250px; object-fit: cover">
 </div>
 
 <div>
